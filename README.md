@@ -1,1 +1,2 @@
-# AI
+# CV
+Face detection
